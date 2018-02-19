@@ -1,14 +1,5 @@
 # -*- coding: utf-8 -*-
 
-'''
-	
-	Arrumar a parte da pontuação
-		- Clicar para escolher qual dos campos quer pontuar
-		- Ajustar isso colocando os resultados em um vetor e então iterando sobre ele
-		- Ajusta a fixação da pontuação para cada jogador e então finalizar a primeira parte
-
-'''
-
 import pygame
 from Headers.Dice import Dice
 from Headers.Button import Button
